@@ -13,4 +13,4 @@ public class WatchTV {
 				tv.powerOff();
 		}
 }
-//gkgkgkgkgkkg
+//이런 ㅡㅡㅡㅡㅡㅡㅡㅡㅡ제기랄
