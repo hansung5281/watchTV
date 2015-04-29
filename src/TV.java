@@ -15,7 +15,7 @@ public class TV {
 		this.channel = channel;
 	}
 
-	
+	//내가 고칠 수 있나??
 
 
 public boolean isPower() {
